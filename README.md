@@ -14,4 +14,11 @@
 
 ### shorcuts
 cmd+shift+p # open package control
+
 cmd +b  # exec the script
+
+### MacOS link
+
+echo $PATH
+
+ln -sv /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
